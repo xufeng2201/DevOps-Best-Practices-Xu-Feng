@@ -1,8 +1,8 @@
-|Abbreviation|Meaning
-| -------- | ----- 
-|API|Application Programming Interface
-|ASL|Application Services Library
-|BiSL|Business Information Services Library
+|Abbreviation|Meaning|Chinese|Comment
+| -------- | ----- |----|----|
+|API|Application Programming Interface|应用程序接口
+|ASL|Application Services Library|应用服务库
+|BiSL|Business Information Services Library|商业信息服务库
 |CAB|Change Advisory Board
 |CAMS|Culture，Automation，Measurement and Sharing
 |CEMLI|Configuration， Extension， Modification， Localisation，Integration 
