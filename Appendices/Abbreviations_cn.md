@@ -3,18 +3,18 @@
 |API|Application Programming Interface|应用程序接口
 |ASL|Application Services Library|应用服务库
 |BiSL|Business Information Services Library|商业信息服务库
-|CAB|Change Advisory Board
-|CAMS|Culture，Automation，Measurement and Sharing
+|CAB|Change Advisory Board|变更支持委员会|https://en.wikipedia.org/wiki/Change_advisory_board
+|CAMS|Culture，Automation，Measurement and Sharing|文化、自动化、度量和分享
 |CEMLI|Configuration， Extension， Modification， Localisation，Integration 
-|CI|Configuration Item
-|CFO|Chief Financial Officer
-|CIO|Cief Information Officer
-|CMDB|Configuration Management DataBase
-|CMS|Content Management System
-|CPU|Central Processing Unit
-|CRM|Customer Relationship Management
+|CI|Configuration Item|配置项
+|CFO|Chief Financial Officer|首席财务官
+|CIO|Cief Information Officer|首席信息官
+|CMDB|Configuration Management DataBase|配置管理数据库
+|CMS|Content Management System|内容管理系统
+|CPU|Central Processing Unit|中央处理器
+|CRM|Customer Relationship Management|客户关系管理
 |CSF|Critical Success Factor
-|CT|Component Test
+|CT|Component Test|组件测试
 |CVS|Concurrent Versions System
 |DDL|Data Definition Language
 |DevOps|Development Operations
@@ -72,9 +72,9 @@
 |SAAS|Software As A Service
 |SACM|Service & Asset Configuration Management
 |SBAR|?Situational information to describe what is happening;
-||?Background information or context;
-||?An assessment of what they believe the problem is;
-||?Recommendations for how to proceed.
+||-Background information or context;
+||-An assessment of what they believe the problem is;
+||-Recommendations for how to proceed.
 |SCM|Software Configuration Management
 |SIT|System Integration Test
 |SLA|Service Level Agreement
