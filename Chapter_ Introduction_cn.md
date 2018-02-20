@@ -61,6 +61,7 @@
 ### 术语
 在本书中，除非另有说明，术语 ICT 服务和 ICT 产品分别被定义为“服务”和“产品”。 术语“服务”也用来表达交付产品的工作。 书中的每篇论文都对该论文中使用的术语的特性进行了描述。 附录B包括了本书使用的所有特定术语。 附录 C 包括了 DevOps 语境中通用的常用术语。附件 D 列出了缩略语。
 
-译者注： 
+#### 译者注： 
 1、  DevOps： 开发 运维。原文：Dev (Development) Ops (Operations)
+
 2 、 ICT ：基础设施通信技术。原文： Infrastructure Communication Technology (ICT) 
