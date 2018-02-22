@@ -10,6 +10,8 @@
 
 ##**3.2 流程**
 
+[https://github.com/xufeng2201/DevOps-Best-Practices-Xu-Feng](https://github.com/xufeng2201/DevOps-Best-Practices-Xu-Feng "Figure3-1_cn")
+
 图3-1 图示了 DevOps 流程。它不是 DveOps 流程的规范定义。而是表述了在大多数组织机构中，为了实现一个服务而会被循环执行的阶段的逻辑集合。
 
 蓝色箭头表示开发流程。橘色箭头表示运维流程。这两个流程构成了 DevOps 方案的方法核心。这篇文章不会触及资源，包括应用程序，基础架构和工具；也不会触及人员，包括功能，角色和文化。这两部分会在后续文章进行讨论。
@@ -166,6 +168,8 @@
 ###**3.2.9  DevOps 框架结构关系**
 
 图3-2给出了 DevOps 流程与 DevOps 框架间的关系概览，如下所示。
+
+[https://github.com/xufeng2201/DevOps-Best-Practices-Xu-Feng](https://github.com/xufeng2201/DevOps-Best-Practices-Xu-Feng "Figure3-2_cn")
 
 图3-2_DevOps 流程与 DevOps 框架间的关系
 
