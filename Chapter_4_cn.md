@@ -35,9 +35,8 @@
 
 ### 4.4.1 业务线模式
 业务线模式是按照应用程序来划分DevOps团队，而所有的应用程序又是根据不同的业务线来分割。在各个DevOps团队中的交互为零。因此这是一种垂直特性分割。
-![img](./pics/Chapter_4_cn/clip_image001.png)
+![img](./pics/Chapter_4_cn/clip_image001_cn.png)
 图4‑1, 业务线模式
-(Service Desk: 服务台 ｜ Operations：运维 ｜ Business Market: 商业市场 ｜ Private Market:  自由市场 ｜ Facility Management: 设施管理 | P&O : 人事&组织 ｜ Change Control: 变更控制)
 
 在这种模式下，服务台是顾客和服务供应商之间的单一接触点。运维团队负责监控服务。变更控制是一个控制单元，在不同的DevOps团队间规划业务特性请求及系统上线。然而，这个变更控制是轻量级的，因为不同DevOps团队之间负责的产品特性很少被共享。
 
@@ -48,17 +47,15 @@
 
 ### 4.4.2 组合模式
 最后一种常用的模式是投资组合导向模式。在这种组织形式中，团队是按照应用程序的功能而聚集。同样，这种模式也是基于垂直特性分割。
-![img](./pics/Chapter_4_cn/clip_image002.png)
+![img](./pics/Chapter_4_cn/clip_image002_cn.png)
 图4‑2, 组合模式
-(Service Desk: 服务台 ｜ Operations：运维 ｜ Financial Application: 财务应用 ｜ Resource mngt Application:  资源管理应用 ｜ HRM Application: 人力资源管理应用 | P&O Application: 人事&组织应用 | Change Control: 变更控制)
 
 这些通用的DevOp团队（服务台，运维，变更控制）与业务线模式相同。应用程序集群的例子是财务应用服务，资源管理应用，人力资源应用和人事&组织应用。
 
 ### 4.4.3 信息价值链模式  
 信息价值链模式试图通过一组相互协作的团队来提供信息，从而提供一个顾客信息服务。这就意味着DevOps报告团队想要设计一个新报告，需要至少一个最多五个DevOps团队的参与。因此，这是一个水平特性分割（参见特性分割章节）。
-![img](./pics/Chapter_4_cn/clip_image003.png)
+![img](./pics/Chapter_4_cn/clip_image003_cn.png)
 图4‑3, 信息价值链模式
-(Service Desk: 服务台 ｜ Operations：运维 ｜ Data Foundation: 数据基础 | Accounting: 核算 ｜ Calculation: 计算 | Reporting：报告 | Change Control: 变更控制)
 
 在这个模式中，服务台是顾客和服务供应商之间的单一接触点。运维团队负责监控信息服务。基础数据团队负责收集信息文件。核算团队负责管理信息文件的处理流程及质量审计。运算团队负责执行报告中需要的数据计算。报告团队负责将计算好的数据提供给客户，报告形式包括数据市场，报告模版及应急报告。变更控制是一个控制单元，在不同的DevOps团队间规划业务特性请求及系统上线。
 
